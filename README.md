@@ -1,4 +1,4 @@
-# 🕯️ Candlestick Pattern Detection System for Indian Stock Market
+# Candlestick Pattern Detection System for Indian Stock Market
 
 A production-ready full-stack application that detects candlestick patterns in Indian stocks and provides Buy/Sell recommendations with expected returns analysis.
 
